@@ -6,4 +6,6 @@ Government need to know if parent of a NN is treating it right, what goes in it 
 
 Moreover, we need to make sure that a child doesn't do serious work for life money. If it does we need to quantify its smartness and tax it.
 
-The quantity I suggest is to measure the number of FLOPS used for its training.
+The quantity I suggest is to measure the number of FLOPS used for its training multiplied by FLOPS at each inference multiplied by number of inference...
+
+That is information it contains at training * information it recieves at inference.
