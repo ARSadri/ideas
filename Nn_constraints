@@ -1,0 +1,3 @@
+One idea to put physics in NN is to use residual connections for it...I feel this means something.
+
+For example, if the network is going to fit to our desired output, yet the scapegoat is the residual connection, we put physics in it and the neutral will have geometric constraints.
