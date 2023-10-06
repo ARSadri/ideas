@@ -1,0 +1,3 @@
+optimization is about minimizing a cost. We cannot say that we do not wish to overfit.
+
+If we have noise problems, we have a model selection problem.
