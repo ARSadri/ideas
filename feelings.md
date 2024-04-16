@@ -19,10 +19,10 @@ To respond to feelings, for each feeling, there is a different way of contacting
 For hunger, there is attention to what we have had before and be thankful for it and to feed others. A readtion would be to just eat.
 For anger, there is attention to the unknown parameters, and looking for new rules, A reaction would be to judge based on mere past and not the present.
 
-Among all feelings, the most important one is exclamation which triggers all systems in our brain. 
-No feeling drives man as exclamation does. This is the feeling that drives science, ambition, greed and envy.
+Among all feelings, the most important one is amaze or being surprised which triggers all systems in our brain. 
+No feeling drives man as surprise does. This is the feeling that drives science, ambition, greed and envy.
 
-The response to exclamation is praying. The reaction would be to simpy follow what has surprised us.  
+The response to amaze is praying. The reaction would be to simpy follow what has surprised us.  
 During praying we make too big of a deal about god, the perfect version of everything which is unity as no perfect lacks anything any other perfect has
 this allows us to remain concious when surprises arrive in life not to make too big of a deal out of them.
 
